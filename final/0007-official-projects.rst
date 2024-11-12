@@ -134,7 +134,7 @@ Maintenance Team
     manner.
 
 Shepherd
-    The **Shepherd** is someone with a long history of contributing to Django,
+    The **Shepherd** is someone who has contributed to Django for at least two years,
     who will be the primary point of contact for the project, who will liaise with
     the Steering Council for the final vote, and who will assist in moving and
     running the project under official Django ownership and infrastructure.
